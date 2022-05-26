@@ -1,0 +1,14 @@
+.header{
+    top: 0%;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    text-shadow: 50px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: start;
+}
+.pi{
+    align-content: flex-end;
+}
